@@ -1,0 +1,13 @@
+node_modules
+www
+.DS_Store
+npm-debug.*
+dist
+build
+
+*.env
+coverage
+
+data-node
+client/cypress/screenshots/
+client/cypress/videos/
